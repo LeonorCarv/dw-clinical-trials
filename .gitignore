@@ -181,7 +181,7 @@ cython_debug/
 .cursorindexingignore
 
 # Data (never committed)
-data/
+data/raw/
 *.dmp
 *.zip
 *.dump
