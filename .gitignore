@@ -179,3 +179,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Data (never committed)
+data/
+*.dmp
+*.zip
+*.dump
+*.backup
+
+# Credentials
+.env
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
